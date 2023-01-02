@@ -1,0 +1,679 @@
+*
+{
+    letter-spacing: 0;
+}
+.start
+{
+    background-color: rgba(0, 0, 0, 0.4);
+    background-image: linear-gradient(330deg,rgba(0, 0, 0, 0.553),transparent 60%,rgba(0, 0, 0, 0.6));
+    height: 600px;
+}
+.section1
+{
+    background-image: url("netflix-230694.large.jpg");
+    width: 101%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    top: -7.8px;
+    left: -7.8px;
+    margin-right: 10px;
+}
+.netflix_logo
+{
+    width: 140px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+    top: 20px;
+}
+#location
+{
+    text-align: center;
+    float: right;
+    position: relative;
+    right: 200px;
+    top: -50px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.loc>.globe
+{
+    position: relative;
+    z-index: 1!important;
+    float: right;
+    top: -37px;
+    right: 300px;
+    width: 17px;
+    height: 17px;
+} 
+#sign_in
+{
+    color: white;
+    background-color: #e50914;
+    position: relative;
+    float: right;
+    top: -49.55px;
+    right: -1px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: none;
+    border-radius: 5px;
+}
+.title .sen1
+{
+    color:white;
+    float: left;
+    position: relative;
+    top: 70px;
+    left: 260px;
+    font-family: sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-shadow: 2px 2px 4px black;
+}
+.title .sen2
+{
+    color:white;
+    float: left;
+    position: relative;
+    top: 170px;
+    left: -290px;
+    font-size: 25px;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 4px black;
+}
+.title .sen3
+{
+    color:white;
+    float: left;
+    position: relative;
+    top: 70px;
+    left: 262px;
+    font-size:1.2rem;
+    font-weight: 200;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 4px black;
+}
+#enter_email
+{
+    position: relative;
+    top: 200.3px;
+    left: -375px;
+    width: 460px;
+    height: 49px;
+    border:none;
+    border-top-right-radius: 0;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 0;
+    outline: none;
+}
+.email .get_started
+{
+    color: white;
+    background-color: #e50914;
+    text-decoration: none;
+    text-align: none;
+    border: none;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 6px;
+    padding: 16.5px;
+    position: relative;
+    top: 152.4px;
+    left: 89.4px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.s2
+{
+    width: 101%;
+    height: 500px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    top: -7.6px;
+    left: -7.8px;
+    border-top: 8px solid #353535;
+    border-bottom: 8px solid #353535;
+    border-left: 0;
+    border-right: 0;
+}
+.s2 .s2_s1
+{
+    color:white;
+    font-family: sans-serif;
+    font-size: 38px;
+    position: relative;
+    left: 75px;
+    top:100px;
+    width: 500px;
+    height: 70px;
+}
+.s2 .s2_s2
+{
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 72px;
+    top: 100px;
+    width: 500px;
+    height: 70px;
+}
+.s2 .tv_screen
+{
+    width: 380px;
+    height: 300px;
+    position: relative;
+    left: 630px;
+    top: -150px;
+    z-index: 1;
+}
+.s2 .gif
+{
+    width: 290px;
+    height: 300px;
+    position: relative;
+    left: 295px;
+    top: -160px;
+}
+.s3
+{
+    width: 101%;
+    height: 500px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    top: -7.6px;
+    left: -7.8px;
+    border-top: 8px solid #353535;
+    border-bottom: 8px solid #353535;
+    border-left: 0;
+    border-right: 0;
+}
+.phone .box .stranger_things_img
+{
+    position: relative;
+    top: -29px;
+    left: -30px;
+}
+.box .st
+{
+    color: white;
+    position: relative;
+    left: 59px;
+    font-size: 17px;
+    top: -120px;
+}
+.box .download
+{
+    color: #0071eb;
+    font-size: 16px;
+    font-weight: 300;
+    position: relative;
+    left: 57px;
+    top: -165px;
+}
+.phone .box
+{
+    padding: 50px;
+    width: 260px;
+    height: 20px;
+    border:2px solid hsla(0,0%,100%,.25);
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    left: 75px;
+    top: -100px;
+}
+.box .anime
+{
+    position: relative;
+    top: -235px;
+    left: 240px;
+}
+.s3 .txt .h1
+{
+    width: 500px;
+    height: 30px;
+    position: relative;
+    float: right;
+    top: -430px;
+    right: 60px;
+    color: white;
+    font-size: 50px;
+}
+.s3 .txt .h3
+{
+    color: rgb(0, 0, 0);
+    font-size: 26px;
+    font-weight: 300;
+    font-family: sans-serif;
+    width: 500px;
+    color: white;
+    position: relative;
+    float: right;
+    right: -440px;
+    top: -280px;
+}
+.s4
+{
+    width: 101%;
+    height: 500px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    top: -7.6px;
+    left: -7.8px;
+    border-top: 8px solid #353535;
+    border-bottom: 8px solid #353535;
+    border-left: 0;
+    border-right: 0;
+}
+.s4 .txt .h1
+{
+    width: 500px;
+    height: 30px;
+    position: relative;
+    float: right;
+    top: -40px;
+    right: 60px;
+    color: white;
+    font-size: 50px;
+}
+.s4 .txt .h3
+{
+    font-size: 26px;
+    font-weight: 300;
+    font-family: sans-serif;
+    width: 500px;
+    color: white;
+    position: relative;
+    float: right;
+    right: 559px;
+    top: -49px;
+}
+.s4 .photo .mac
+{
+    width: 450px;
+    position: relative;
+    left: 640px;
+    top: -150px;
+    z-index: 1;
+}
+.s4 .photo .gif
+{
+    position: relative;
+    left: 720px;
+    top: -450px;
+    width: 280px;
+}
+.s5
+{
+    width: 101%;
+    height: 500px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    top: -7.6px;
+    left: -7.8px;
+    border-top: 8px solid #353535;
+    border-bottom: 8px solid #353535;
+    border-left: 0;
+    border-right: 0;
+}
+.s5 .img .children
+{
+    width: 450px;
+    position: relative;
+    top: 90px;
+    left: 60px;
+}
+.s5 .txt .h1
+{
+    width: 500px;
+    height: 30px;
+    position: relative;
+    float: right;
+    top: -290px;
+    right: 60px;
+    color: white;
+    font-size: 50px;
+}
+.s5 .txt .h3
+{
+    font-size: 26px;
+    font-weight: 300;
+    font-family: sans-serif;
+    width: 500px;
+    color: white;
+    position: relative;
+    float: right;
+    right: -440px;
+    top: -130px;
+}
+.foot 
+{
+    width: 101%;
+    height: 450px;
+    background-color: rgba(0, 0, 0);
+    position: relative;
+    top: -7.6px;
+    left: -7.8px;
+    border-top: 8px solid #353535;
+    border-left: 0;
+    border-right: 0;
+    color: #737373;
+}
+ .foot .txt .p
+{
+    width: 100px;
+    position: relative;
+    top: 70px;
+    left: 140px;
+}
+.foot .tel
+{
+    position: relative;
+    top: 36px;
+    left: 240px;
+    text-decoration: none;
+    color: #737373;
+}
+.foot a.tel:hover
+{
+    position: relative;
+    top: 36px;
+    left: 240px;
+    text-decoration: underline;
+    color: white;
+}
+.foot .txt .faq
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 96px;
+    left: 15px;
+}
+.foot .txt a.faq:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 96px;
+    left: 15px;
+}
+.foot .txt .invest
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 145px;
+    left: -19px;
+}
+.foot .txt a.invest:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 145px;
+    left: -19px;
+}
+.foot .txt .privacy
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 189px;
+    left: -140px;
+}
+.foot .txt a.privacy:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 189px;
+    left: -140px;
+}
+.foot .txt .speed
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 233px;
+    left: -195px;
+}
+.foot .txt a.speed:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 233px;
+    left: -195px;
+}
+.foot .txt .help
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 96px;
+    left: -20px;
+}
+.foot .txt a.help:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 96px;
+    left: -20px;
+}
+.foot .txt .jobs
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 144px;
+    left: -102px;
+}
+.foot .txt a.jobs:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 144px;
+    left: -102px;
+}
+.foot .txt .cookie
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 193.8px;
+    left: -139px;
+}
+.foot .txt a.cookie:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 193.8px;
+    left: -139px;
+}
+.foot .txt .notices
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top:236px;
+    left: -270px;
+}
+.foot .txt a.notices:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top:236px;
+    left: -270px;
+}
+.foot .txt .account
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 93px;
+    left: -139px;
+}
+.foot .txt a.account:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 93px;
+    left: -139px;
+}
+.foot .txt .ways
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 145px;
+    left: -199px;
+}
+.foot .txt a.ways:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 145px;
+    left: -199px;
+}
+.foot .txt .corporate
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 195px;
+    left: -300px;
+}
+.foot .txt a.corporate:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 195px;
+    left: -300px;
+}
+.foot .txt .only_on_netflix
+{
+    color: #737373;
+    text-decoration: none;
+    position: relative;
+    top: 240px;
+    left: -450px;
+}
+.foot .txt a.only_on_netflix:hover
+{
+    color: white;
+    text-decoration: underline;
+    position: relative;
+    top: 240px;
+    left: -450px;
+}
+.foot .txt .media
+{
+    color: #737373;
+    position: relative;
+    left: 900px;
+    top: 68px;
+    text-decoration: none;
+}
+.foot .txt a.media:hover
+{
+    color: white;
+    position: relative;
+    left: 900px;
+    top: 68px;
+    text-decoration: underline;
+}
+.foot .txt .terms
+{
+    color: #737373;
+    position: relative;
+    left: 809px;
+    top: 120px;
+    text-decoration: none;
+}
+.foot .txt a.terms:hover
+{
+    color: white;
+    position: relative;
+    left: 809px;
+    top: 120px;
+    text-decoration: underline;
+}
+.foot .txt .contact
+{
+    color: #737373;
+    position: relative;
+    left: 720px;
+    top: 173px;
+    text-decoration: none;
+}
+.foot .txt a.contact:hover
+{
+    color: white;
+    position: relative;
+    left: 720px;
+    top: 173px;
+    text-decoration: underline;
+}
+#location1
+{
+    text-align: center;
+    float: right;
+    position: relative;
+    right: 200px;
+    top: -50px;
+    padding-left: 20px;
+    padding-right: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.loc1>.globe1
+{
+    position: relative;
+    z-index: 1!important;
+    float: right;
+    top: -37px;
+    right: 300px;
+    width: 17px;
+    height: 17px;
+}
+.loc1
+{
+    position: relative;
+    top: 300px;
+    right: 700px;
+}
+#p
+{
+    width: 90px;
+    position: relative;
+    top: 310px;
+    left: 130px;
+}   
